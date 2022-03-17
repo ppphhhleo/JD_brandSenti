@@ -21,7 +21,21 @@ run.py
 
 -   对爬取的所有商品，进行价格排序
 
--   设置价位，将同一价位的品牌合并
+-   品牌情感分析
 
--   同价位内部品牌，进行情感值排序
+
+
+## References 
+[1] scrapy爬虫 <https://www.jianshu.com/p/d17e6d41858b>
+
+[2] 环境 <https://blog.csdn.net/weixin_44021270/article/details/105259456>
+
+[3] PyMySQL cursor <https://www.jianshu.com/p/fba075a4cfe9>
+
+[4]
+WebDriverhttps://stackoverflow.com/questions/29858752/error-message-chromedriver-executable-needs-to-be-available-in-the-path
+
+[5] find_element
+<https://stackoverflow.com/questions/28642148/there-is-error-invalid-locator-values-passed-in-in-case-we-use-find-element-in>
+
 
